@@ -1,0 +1,1 @@
+E:\CodeSpace\practice\rust\rust_fist_project\target\debug\rust_fist_project.exe: E:\CodeSpace\practice\rust\rust_fist_project\src\main.rs E:\CodeSpace\practice\rust\rust_fist_project\src\module1.rs E:\CodeSpace\practice\rust\rust_fist_project\src\module2.rs
